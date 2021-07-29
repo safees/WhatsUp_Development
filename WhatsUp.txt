@@ -13,3 +13,5 @@ Hiding last seen
 
 Video 
 Audio
+
+Adding status so user can play status
