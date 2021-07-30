@@ -7,7 +7,7 @@ Footer code
 
 Body Code 
 
-Some Attchements(Image , Audio, Video)
+Some Attchements(Image , Audio, Video , Documents)
 
 Hiding last seen
 
